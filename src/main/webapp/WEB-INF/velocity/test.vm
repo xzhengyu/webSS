@@ -1,0 +1,13 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="../static/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <title>Boot</title>
+</head>
+<body>
+<h1>问问是是是</h1>
+<a class="affix">ssssssssssssssss</a>
+<a class="fade">ssssssssssssssss</a>
+
+</body>
+</html>
